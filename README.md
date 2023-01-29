@@ -60,19 +60,6 @@ Core concepts used in the project:-
 • Exception Handling: used to catch problems that arises in the code especially in I/O blocks
 
 
-How to run the program
-----------------------
-• clone project
-
-o clone git : git clone https://github.com/raiandbala/Sporty-Shoes/tree/master/Sporty-Shoes-Store-main
-
-• Import the “main\webapp\resources\database\sporty-shoes.sql” file to your database administration tool.
-
-• Go to “main\webapp\WEB-INF\sporty-shoes-servlet.xml” file, open it.
-
-• Edit some values of the database’ properties such as username, password and driverClassName to be suit to your database administration tool.
-
-• Now run program on a server.
 
 
 
