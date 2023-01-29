@@ -57,7 +57,12 @@ Core concepts used in the project:-
 
 • Collections: used some collections such arraylist to store collection of data.
 
-• Exception Handling: used to catch problems that arises in the code especially in I/O blocks
+• Exception Handling: used to catch problems that arises in the code especially in I/O blocks.
+
+
+Developer Name:-
+Anupam Deo
+bhanjadeo39@gmail.com
 
 
 
